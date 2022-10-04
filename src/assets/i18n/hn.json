@@ -1,0 +1,9 @@
+{
+  "HOME": {
+    "TITLE": "हैलो एंगुलर ngx-translate!",
+    "SELECT": "भाषा बदलो"
+  },
+  "ERROR": {
+    "INVALIDCART": "अमान्य कार्ड !!"
+  }
+}
